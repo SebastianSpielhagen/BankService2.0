@@ -1,4 +1,5 @@
 package org.spielhagen;
+
 /**
  * Die Hauptklasse des Bankanwendungsprogramms.
  */

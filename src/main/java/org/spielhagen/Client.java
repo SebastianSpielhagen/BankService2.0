@@ -1,4 +1,5 @@
 package org.spielhagen;
+
 /**
  * Die Klasse Client repräsentiert einen Bankkunden mit Vornamen, Nachnamen und einer Kundennummer.
  */

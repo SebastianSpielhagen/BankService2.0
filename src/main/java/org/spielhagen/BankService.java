@@ -2,6 +2,7 @@ package org.spielhagen;
 
 import java.util.ArrayList;
 import java.util.List;
+
 /**
  * Die Klasse BankService stellt Bankdienstleistungen bereit, darunter das Erstellen von Konten,
  * Einzahlungen, Auszahlungen, Überweisungen und die Aufteilung von Kontoständen auf mehrere Konten.

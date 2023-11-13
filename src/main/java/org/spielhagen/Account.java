@@ -1,4 +1,5 @@
 package org.spielhagen;
+
 /**
  * Die Klasse Account repräsentiert ein Bankkonto mit einer Kontonummer, einem Kontostand und einem Kunden.
  */
